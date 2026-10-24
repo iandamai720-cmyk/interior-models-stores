@@ -16,7 +16,7 @@
   "czarny"
  ],
  "material": "poliester, pianka PU",
- "price_pln": null,
+ "price_pln": 219.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/2-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-czarna-poduszki-na-krzeslo-ogrodowe-z-oparciem-fotel-ogrdowy-rattanowy-poduszi-na-krzeslo-na-balkon-89785736.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/2-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-czarna-poduszki-na-krzeslo-ogrodowe-z-oparciem-fotel-ogrdowy-rattanowy-poduszi-na-krzeslo-na-balkon-89785736.html",
@@ -61,6 +61,9 @@
  "opis": "Poduszka; kolor: czarny; materiał: poliester, pianka PU; wym.: 50 × 56 × 7,0 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/2-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-czarna-poduszki-na-krzeslo-ogrodowe-z-oparciem-fotel-ogrdowy-rattanowy-poduszi-na-krzeslo-na-balkon-89785736.html"
+ "price": 219.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/2-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-czarna-poduszki-na-krzeslo-ogrodowe-z-oparciem-fotel-ogrdowy-rattanowy-poduszi-na-krzeslo-na-balkon-89785736.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

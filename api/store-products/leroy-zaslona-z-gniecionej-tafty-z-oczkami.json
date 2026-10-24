@@ -58,9 +58,13 @@
  "similar_model_name": null,
  "similar_model_url": null,
  "similar_preview_url": null,
- "opis": "Zasłona / firana; kolor: beżowy; materiał: poliester (tafta); wym.: 135 × 260 cm (szer. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+ "opis": "Zasłona / firana; kolor: beżowy; materiał: poliester (tafta); wym.: 135 × 260 cm (szer. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego; uwaga: produkt wycofany ze sprzedaży („Ten produkt nie jest już dostępny”), cena nieustalona.",
  "country": "PL",
  "currency": "PLN",
  "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/zaslona-z-gniecionej-tafty-z-oczkami-83215669.html"
+ "product_url": "https://www.leroymerlin.pl/produkty/zaslona-z-gniecionej-tafty-z-oczkami-83215669.html",
+ "discontinued": true,
+ "availability": "not_found",
+ "availability_note": "karta produktu: „Ten produkt nie jest już dostępny” (sprawdzone w przeglądarce, browser_inbox/leroymerlin_prices.jsonl); cena nieustalona",
+ "price_source": null
 }

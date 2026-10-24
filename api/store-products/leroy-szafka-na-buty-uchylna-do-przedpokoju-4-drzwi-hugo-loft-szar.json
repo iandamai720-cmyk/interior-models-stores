@@ -16,7 +16,7 @@
   "szary / dąb wotan"
  ],
  "material": "płyta laminowana",
- "price_pln": null,
+ "price_pln": 259.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/szafka-na-buty-uchylna-do-przedpokoju-4-drzwi-hugo-loft-szary-dab-wotan-96516015.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/szafka-na-buty-uchylna-do-przedpokoju-4-drzwi-hugo-loft-szary-dab-wotan-96516015.html",
@@ -61,6 +61,9 @@
  "opis": "Szafka na buty; kolor: szary / dąb wotan; materiał: płyta laminowana; wym.: 71 × 35 × 83 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - imit. dębu 49x28x135 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/szafka-na-buty-uchylna-do-przedpokoju-4-drzwi-hugo-loft-szary-dab-wotan-96516015.html"
+ "price": 259.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/szafka-na-buty-uchylna-do-przedpokoju-4-drzwi-hugo-loft-szary-dab-wotan-96516015.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

@@ -16,7 +16,7 @@
   "zielony (celadon)"
  ],
  "material": "płyta wiórowa",
- "price_pln": null,
+ "price_pln": 315.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/szafka-pod-umywalke-remix-celadon-45-sensea-86751255.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/szafka-pod-umywalke-remix-celadon-45-sensea-86751255.html",
@@ -61,6 +61,9 @@
  "opis": "Szafka pod umywalkę; kolor: zielony (celadon); materiał: płyta wiórowa; wym.: 45 × 33 × 58 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ENHET Szafka umywalkowa z drzwiami - biały 60x42x60 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/szafka-pod-umywalke-remix-celadon-45-sensea-86751255.html"
+ "price": 315.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/szafka-pod-umywalke-remix-celadon-45-sensea-86751255.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

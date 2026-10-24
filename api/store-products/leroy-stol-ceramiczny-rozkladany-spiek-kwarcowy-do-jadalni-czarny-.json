@@ -16,7 +16,7 @@
   "czarny (marmur)"
  ],
  "material": "spiek ceramiczny, metal",
- "price_pln": null,
+ "price_pln": 1999.9,
  "url_pl": "https://www.leroymerlin.pl/produkty/stol-ceramiczny-rozkladany-spiek-kwarcowy-do-jadalni-czarny-maxime-160-240-96595969.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/stol-ceramiczny-rozkladany-spiek-kwarcowy-do-jadalni-czarny-maxime-160-240-96595969.html",
@@ -61,6 +61,9 @@
  "opis": "Stół do jadalni; kolor: czarny (marmur); materiał: spiek ceramiczny, metal; wym.: 160 × 76 cm (szer. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LISABO Stół - czarny/okleina jesionowa 105 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/stol-ceramiczny-rozkladany-spiek-kwarcowy-do-jadalni-czarny-maxime-160-240-96595969.html"
+ "price": 1999.9,
+ "product_url": "https://www.leroymerlin.pl/produkty/stol-ceramiczny-rozkladany-spiek-kwarcowy-do-jadalni-czarny-maxime-160-240-96595969.html",
+ "price_regular": 2199.9,
+ "price_regular_pln": 2199.9,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

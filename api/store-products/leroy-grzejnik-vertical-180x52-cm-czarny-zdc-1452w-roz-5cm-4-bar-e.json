@@ -16,7 +16,7 @@
   "czarny"
  ],
  "material": "stal",
- "price_pln": null,
+ "price_pln": 959.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/grzejnik-vertical-180x52-cm-czarny-zdc-1452w-roz-5cm-4-bar-equation-84427869.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/grzejnik-vertical-180x52-cm-czarny-zdc-1452w-roz-5cm-4-bar-equation-84427869.html",
@@ -61,6 +61,9 @@
  "opis": "Grzejnik; kolor: czarny; materiał: stal; wym.: 52 × 9,0 × 180 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): PLAIN TOWEL RAIL cast iron radiator.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/grzejnik-vertical-180x52-cm-czarny-zdc-1452w-roz-5cm-4-bar-equation-84427869.html"
+ "price": 959.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/grzejnik-vertical-180x52-cm-czarny-zdc-1452w-roz-5cm-4-bar-equation-84427869.html",
+ "price_regular": 1229.0,
+ "price_regular_pln": 1229.0,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

@@ -16,7 +16,7 @@
   "antracytowy"
  ],
  "material": "aluminium, tekstylen",
- "price_pln": null,
+ "price_pln": 569.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/lezak-ogrodowy-skladany-ninkasi-aluminium-antracyt-naterial-94336761.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/lezak-ogrodowy-skladany-ninkasi-aluminium-antracyt-naterial-94336761.html",
@@ -61,6 +61,9 @@
  "opis": "Leżak; kolor: antracytowy; materiał: aluminium, tekstylen; wym.: 70 × 184 × 106 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NÄMMARÖ Leżak - na zewnątrz bejca jasnobrązowa.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/lezak-ogrodowy-skladany-ninkasi-aluminium-antracyt-naterial-94336761.html"
+ "price": 569.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/lezak-ogrodowy-skladany-ninkasi-aluminium-antracyt-naterial-94336761.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

@@ -16,7 +16,7 @@
   "czarny mat"
  ],
  "material": "aluminium, akryl",
- "price_pln": null,
+ "price_pln": 199.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/lampa-wiszaca-paris-czarna-4-x-gu10-goldlux-89535737.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/lampa-wiszaca-paris-czarna-4-x-gu10-goldlux-89535737.html",
@@ -61,6 +61,9 @@
  "opis": "Lampa wisząca; kolor: czarny mat; materiał: aluminium, akryl; wym.: 60 × 13 × 117 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KRANSALG Lampa wisząca/5 żarówek - czarny 113 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/lampa-wiszaca-paris-czarna-4-x-gu10-goldlux-89535737.html"
+ "price": 199.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/lampa-wiszaca-paris-czarna-4-x-gu10-goldlux-89535737.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

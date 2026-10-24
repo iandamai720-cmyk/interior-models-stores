@@ -16,7 +16,7 @@
   "wielobarwny (grafika New York)"
  ],
  "material": "stal",
- "price_pln": null,
+ "price_pln": 1099.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/grzejnik-na-podczerwien-z-grafika-new-york-2-tf-swt700p-termofol-89718662.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/grzejnik-na-podczerwien-z-grafika-new-york-2-tf-swt700p-termofol-89718662.html",
@@ -61,6 +61,9 @@
  "opis": "Grzejnik elektryczny; kolor: wielobarwny (grafika New York); materiał: stal; wym.: 120 × 1,5 × 60 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/grzejnik-na-podczerwien-z-grafika-new-york-2-tf-swt700p-termofol-89718662.html"
+ "price": 1099.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/grzejnik-na-podczerwien-z-grafika-new-york-2-tf-swt700p-termofol-89718662.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

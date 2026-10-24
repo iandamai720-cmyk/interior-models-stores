@@ -16,7 +16,7 @@
   "szary"
  ],
  "material": "welur (aksamit), drewno sosnowe",
- "price_pln": null,
+ "price_pln": 2367.87,
  "url_pl": "https://www.leroymerlin.pl/produkty/lozko-tapicerowane-tkanina-welurowa-lozko-dwuosobowe-180-200-szare-duze-przeszycia-guzikowe-89705740.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/lozko-tapicerowane-tkanina-welurowa-lozko-dwuosobowe-180-200-szare-duze-przeszycia-guzikowe-89705740.html",
@@ -61,6 +61,9 @@
  "opis": "Łóżko podwójne; kolor: szary; materiał: welur (aksamit), drewno sosnowe; wym.: 186 × 207 × 99 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SLATTUM Tapicerowana rama łóżka - Vissle ciemnoszary 120x200 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/lozko-tapicerowane-tkanina-welurowa-lozko-dwuosobowe-180-200-szare-duze-przeszycia-guzikowe-89705740.html"
+ "price": 2367.87,
+ "product_url": "https://www.leroymerlin.pl/produkty/lozko-tapicerowane-tkanina-welurowa-lozko-dwuosobowe-180-200-szare-duze-przeszycia-guzikowe-89705740.html",
+ "price_regular": 2970.23,
+ "price_regular_pln": 2970.23,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

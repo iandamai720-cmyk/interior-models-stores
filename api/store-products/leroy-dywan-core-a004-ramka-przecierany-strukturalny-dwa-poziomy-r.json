@@ -16,7 +16,7 @@
   "niebieski / szary"
  ],
  "material": "polipropylen, poliester",
- "price_pln": null,
+ "price_pln": 900.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/dywan-core-a004-ramka-przecierany-strukturalny-dwa-poziomy-runa-niebieski-szary-200x290-cm-87141323.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/dywan-core-a004-ramka-przecierany-strukturalny-dwa-poziomy-runa-niebieski-szary-200x290-cm-87141323.html",
@@ -61,6 +61,9 @@
  "opis": "Dywan; kolor: niebieski / szary; materiał: polipropylen, poliester; wym.: 200 × 290 cm (szer. × gł.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LINDKNUD Rug, high pile - dark grey 80x150 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/dywan-core-a004-ramka-przecierany-strukturalny-dwa-poziomy-runa-niebieski-szary-200x290-cm-87141323.html"
+ "price": 900.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/dywan-core-a004-ramka-przecierany-strukturalny-dwa-poziomy-runa-niebieski-szary-200x290-cm-87141323.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

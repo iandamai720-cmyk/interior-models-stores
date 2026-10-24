@@ -16,7 +16,7 @@
   "biały połysk / dąb wotan"
  ],
  "material": "płyta laminowana",
- "price_pln": null,
+ "price_pln": 939.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/mebloscianka-wiszaca-do-salonu-240cm-pojemna-szafka-rtv-wotan-biala-polysk-96517134.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/mebloscianka-wiszaca-do-salonu-240cm-pojemna-szafka-rtv-wotan-biala-polysk-96517134.html",
@@ -61,6 +61,9 @@
  "opis": "Szafka RTV; kolor: biały połysk / dąb wotan; materiał: płyta laminowana; wym.: 240 × 40 × 135 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BESTÅ TV bench - black-brown Lappviken/brown walnut effect 180x42x39 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/mebloscianka-wiszaca-do-salonu-240cm-pojemna-szafka-rtv-wotan-biala-polysk-96517134.html"
+ "price": 939.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/mebloscianka-wiszaca-do-salonu-240cm-pojemna-szafka-rtv-wotan-biala-polysk-96517134.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

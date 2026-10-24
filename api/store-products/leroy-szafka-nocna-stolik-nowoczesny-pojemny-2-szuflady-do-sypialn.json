@@ -16,7 +16,7 @@
   "kaszmir (beżowy)"
  ],
  "material": "płyta laminowana",
- "price_pln": null,
+ "price_pln": 99.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/szafka-nocna-stolik-nowoczesny-pojemny-2-szuflady-do-sypialni-mala-kaszmir-96503759.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/szafka-nocna-stolik-nowoczesny-pojemny-2-szuflady-do-sypialni-mala-kaszmir-96503759.html",
@@ -61,6 +61,9 @@
  "opis": "Szafka nocna; kolor: kaszmir (beżowy); materiał: płyta laminowana; wym.: 30 × 30 × 40 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MALM Chest of 2 drawers - high-gloss white 40x55 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/szafka-nocna-stolik-nowoczesny-pojemny-2-szuflady-do-sypialni-mala-kaszmir-96503759.html"
+ "price": 99.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/szafka-nocna-stolik-nowoczesny-pojemny-2-szuflady-do-sypialni-mala-kaszmir-96503759.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

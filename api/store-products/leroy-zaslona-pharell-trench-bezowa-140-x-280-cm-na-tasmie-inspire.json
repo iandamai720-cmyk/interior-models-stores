@@ -16,7 +16,7 @@
   "beżowy"
  ],
  "material": "poliester",
- "price_pln": null,
+ "price_pln": 59.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/zaslona-pharell-trench-bezowa-140-x-280-cm-na-tasmie-inspire-85635353.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/zaslona-pharell-trench-bezowa-140-x-280-cm-na-tasmie-inspire-85635353.html",
@@ -61,6 +61,9 @@
  "opis": "Zasłona / firana; kolor: beżowy; materiał: poliester; wym.: 140 × 280 cm (szer. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/zaslona-pharell-trench-bezowa-140-x-280-cm-na-tasmie-inspire-85635353.html"
+ "price": 59.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/zaslona-pharell-trench-bezowa-140-x-280-cm-na-tasmie-inspire-85635353.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

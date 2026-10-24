@@ -16,7 +16,7 @@
   "antracytowy"
  ],
  "material": "stal galwanizowana, poliester",
- "price_pln": null,
+ "price_pln": 899.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/fotel-wiszacy-kokon-santa-moritz-antracytowy-corciano-89260970.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/fotel-wiszacy-kokon-santa-moritz-antracytowy-corciano-89260970.html",
@@ -61,6 +61,9 @@
  "opis": "Fotel; kolor: antracytowy; materiał: stal galwanizowana, poliester; wym.: 108 × 65 × 197 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/fotel-wiszacy-kokon-santa-moritz-antracytowy-corciano-89260970.html"
+ "price": 899.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/fotel-wiszacy-kokon-santa-moritz-antracytowy-corciano-89260970.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

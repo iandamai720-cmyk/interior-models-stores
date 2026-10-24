@@ -16,7 +16,7 @@
   "szary mat"
  ],
  "material": "płyta laminowana",
- "price_pln": null,
+ "price_pln": 629.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/szafka-na-buty-polka-stojak-na-obuwie-regal-przedpokoj-nowoczesny-szary-96515983.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/szafka-na-buty-polka-stojak-na-obuwie-regal-przedpokoj-nowoczesny-szary-96515983.html",
@@ -61,6 +61,9 @@
  "opis": "Szafka na buty; kolor: szary mat; materiał: płyta laminowana; wym.: 120 × 36 × 100 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/szafka-na-buty-polka-stojak-na-obuwie-regal-przedpokoj-nowoczesny-szary-96515983.html"
+ "price": 629.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/szafka-na-buty-polka-stojak-na-obuwie-regal-przedpokoj-nowoczesny-szary-96515983.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

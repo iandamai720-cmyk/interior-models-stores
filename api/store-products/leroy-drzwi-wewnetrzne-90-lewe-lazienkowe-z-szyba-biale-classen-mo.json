@@ -16,7 +16,7 @@
   "biały"
  ],
  "material": "MDF, szkło",
- "price_pln": null,
+ "price_pln": 599.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/drzwi-wewnetrzne-90-lewe-lazienkowe-z-szyba-biale-classen-morano-i-45081274.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/drzwi-wewnetrzne-90-lewe-lazienkowe-z-szyba-biale-classen-morano-i-45081274.html",
@@ -61,6 +61,9 @@
  "opis": "Drzwi; kolor: biały; materiał: MDF, szkło; wym.: 94 × 3,9 × 204 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/drzwi-wewnetrzne-90-lewe-lazienkowe-z-szyba-biale-classen-morano-i-45081274.html"
+ "price": 599.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/drzwi-wewnetrzne-90-lewe-lazienkowe-z-szyba-biale-classen-morano-i-45081274.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

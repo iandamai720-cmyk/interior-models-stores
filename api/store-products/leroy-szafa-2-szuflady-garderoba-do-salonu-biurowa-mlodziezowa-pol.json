@@ -16,7 +16,7 @@
   "biały połysk"
  ],
  "material": "płyta laminowana",
- "price_pln": null,
+ "price_pln": 689.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/szafa-2-szuflady-garderoba-do-salonu-biurowa-mlodziezowa-polka-bialy-polysk-96499287.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/szafa-2-szuflady-garderoba-do-salonu-biurowa-mlodziezowa-polka-bialy-polysk-96499287.html",
@@ -61,6 +61,9 @@
  "opis": "Szafa; kolor: biały połysk; materiał: płyta laminowana; wym.: 90 × 50 × 180 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BRIMNES Szafa/3 drzwi - biały 117x50x190 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/szafa-2-szuflady-garderoba-do-salonu-biurowa-mlodziezowa-polka-bialy-polysk-96499287.html"
+ "price": 689.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/szafa-2-szuflady-garderoba-do-salonu-biurowa-mlodziezowa-polka-bialy-polysk-96499287.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

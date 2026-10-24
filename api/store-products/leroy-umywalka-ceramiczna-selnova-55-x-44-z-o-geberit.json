@@ -16,7 +16,7 @@
   "biały"
  ],
  "material": "ceramika",
- "price_pln": null,
+ "price_pln": 269.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/umywalka-ceramiczna-selnova-55-x-44-z-o-geberit-44902655.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/umywalka-ceramiczna-selnova-55-x-44-z-o-geberit-44902655.html",
@@ -61,6 +61,9 @@
  "opis": "Umywalka; kolor: biały; materiał: ceramika; wym.: 55 × 44 × 17 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney bathroom sink square.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/umywalka-ceramiczna-selnova-55-x-44-z-o-geberit-44902655.html"
+ "price": 269.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/umywalka-ceramiczna-selnova-55-x-44-z-o-geberit-44902655.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

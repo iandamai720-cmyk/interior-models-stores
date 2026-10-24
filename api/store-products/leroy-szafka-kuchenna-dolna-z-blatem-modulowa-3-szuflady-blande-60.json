@@ -16,7 +16,7 @@
   "biały mat"
  ],
  "material": "płyta laminowana",
- "price_pln": null,
+ "price_pln": 449.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/szafka-kuchenna-dolna-z-blatem-modulowa-3-szuflady-blande-60cm-biala-mat-96515680.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/szafka-kuchenna-dolna-z-blatem-modulowa-3-szuflady-blande-60cm-biala-mat-96515680.html",
@@ -61,6 +61,9 @@
  "opis": "Szafka kuchenna stojąca; kolor: biały mat; materiał: płyta laminowana; wym.: 60 × 47 × 85 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KNOXHULT Szafka stojąca, drzwi+szuflada - biały 120 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/szafka-kuchenna-dolna-z-blatem-modulowa-3-szuflady-blande-60cm-biala-mat-96515680.html"
+ "price": 449.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/szafka-kuchenna-dolna-z-blatem-modulowa-3-szuflady-blande-60cm-biala-mat-96515680.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

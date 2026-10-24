@@ -16,7 +16,7 @@
   "dąb sonoma"
  ],
  "material": "płyta laminowana",
- "price_pln": null,
+ "price_pln": 99.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/szafka-nocna-nowoczesna-2-szuflady-stolik-do-sypialni-nakastlik-sonoma-96503769.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/szafka-nocna-nowoczesna-2-szuflady-stolik-do-sypialni-nakastlik-sonoma-96503769.html",
@@ -61,6 +61,9 @@
  "opis": "Szafka nocna; kolor: dąb sonoma; materiał: płyta laminowana; wym.: 30 × 30 × 40 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STORKLINTA Komoda, 2 szuflady - imit. dębu/z 2 szufladami 40x50x53 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/szafka-nocna-nowoczesna-2-szuflady-stolik-do-sypialni-nakastlik-sonoma-96503769.html"
+ "price": 99.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/szafka-nocna-nowoczesna-2-szuflady-stolik-do-sypialni-nakastlik-sonoma-96503769.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

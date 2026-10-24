@@ -16,7 +16,7 @@
   "szary"
  ],
  "material": "aksamit",
- "price_pln": null,
+ "price_pln": 2286.18,
  "url_pl": "https://www.leroymerlin.pl/produkty/lozko-tapicerowane-w-ksztalcie-ucha-zaglowek-z-poduszka-lozko-dwuosobowe-180-x-200-szare-89705587.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/lozko-tapicerowane-w-ksztalcie-ucha-zaglowek-z-poduszka-lozko-dwuosobowe-180-x-200-szare-89705587.html",
@@ -61,6 +61,9 @@
  "opis": "Łóżko podwójne; kolor: szary; materiał: aksamit; wym.: 188 × 209 × 100 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SLATTUM Tapicerowana rama łóżka - Vissle ciemnoszary 120x200 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/lozko-tapicerowane-w-ksztalcie-ucha-zaglowek-z-poduszka-lozko-dwuosobowe-180-x-200-szare-89705587.html"
+ "price": 2286.18,
+ "product_url": "https://www.leroymerlin.pl/produkty/lozko-tapicerowane-w-ksztalcie-ucha-zaglowek-z-poduszka-lozko-dwuosobowe-180-x-200-szare-89705587.html",
+ "price_regular": 2972.29,
+ "price_regular_pln": 2972.29,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

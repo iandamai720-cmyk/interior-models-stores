@@ -16,7 +16,7 @@
   "biały"
  ],
  "material": "tworzywo, szkło lustrzane, LED",
- "price_pln": null,
+ "price_pln": 149.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/lustro-do-makijazu-nestling-triptych-lustro-powiekszajace-z-22-diodami-led-10x-3x-2x-lustro-podswietlane-z-ekranem-dotykowym-podwojne-zasilanie-r-90788714.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/lustro-do-makijazu-nestling-triptych-lustro-powiekszajace-z-22-diodami-led-10x-3x-2x-lustro-podswietlane-z-ekranem-dotykowym-podwojne-zasilanie-r-90788714.html",
@@ -61,6 +61,9 @@
  "opis": "Lustro; kolor: biały; materiał: tworzywo, szkło lustrzane, LED; wym.: 24 × 16 × 34 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Mirror (Objaverse).",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/lustro-do-makijazu-nestling-triptych-lustro-powiekszajace-z-22-diodami-led-10x-3x-2x-lustro-podswietlane-z-ekranem-dotykowym-podwojne-zasilanie-r-90788714.html"
+ "price": 149.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/lustro-do-makijazu-nestling-triptych-lustro-powiekszajace-z-22-diodami-led-10x-3x-2x-lustro-podswietlane-z-ekranem-dotykowym-podwojne-zasilanie-r-90788714.html",
+ "price_regular": 284.98,
+ "price_regular_pln": 284.98,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

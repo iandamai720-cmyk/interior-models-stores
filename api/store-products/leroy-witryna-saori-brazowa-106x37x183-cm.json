@@ -16,7 +16,7 @@
   "brązowy"
  ],
  "material": "płyta wiórowa, szkło",
- "price_pln": null,
+ "price_pln": 1199.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/witryna-saori-brazowa-106x37x183-cm-93895977.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/witryna-saori-brazowa-106x37x183-cm-93895977.html",
@@ -61,6 +61,9 @@
  "opis": "Witryna; kolor: brązowy; materiał: płyta wiórowa, szkło; wym.: 106 × 37 × 183 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MOSSJÖN Witryna z 2 drzwi - antracyt 60x34x146 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/witryna-saori-brazowa-106x37x183-cm-93895977.html"
+ "price": 1199.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/witryna-saori-brazowa-106x37x183-cm-93895977.html",
+ "price_regular": 2599.0,
+ "price_regular_pln": 2599.0,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

@@ -16,7 +16,7 @@
   "przydymiony dąb"
  ],
  "material": "materiał drewnopochodny",
- "price_pln": null,
+ "price_pln": 305.08,
  "url_pl": "https://www.leroymerlin.pl/produkty/stolik-kawowy-przydymiony-dab-100x50x40-cm-vidaxl-86682129.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/stolik-kawowy-przydymiony-dab-100x50x40-cm-vidaxl-86682129.html",
@@ -61,6 +61,9 @@
  "opis": "Stolik kawowy; kolor: przydymiony dąb; materiał: materiał drewnopochodny; wym.: 100 × 50 × 40 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TARSELE Stolik kawowy - okl dęb/czarny 114x72 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/stolik-kawowy-przydymiony-dab-100x50x40-cm-vidaxl-86682129.html"
+ "price": 305.08,
+ "product_url": "https://www.leroymerlin.pl/produkty/stolik-kawowy-przydymiony-dab-100x50x40-cm-vidaxl-86682129.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

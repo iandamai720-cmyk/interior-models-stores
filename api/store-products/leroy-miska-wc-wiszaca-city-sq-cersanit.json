@@ -16,7 +16,7 @@
   "biały"
  ],
  "material": "ceramika",
- "price_pln": null,
+ "price_pln": 949.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/miska-wc-wiszaca-city-sq-cersanit-82585099.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/miska-wc-wiszaca-city-sq-cersanit-82585099.html",
@@ -61,6 +61,9 @@
  "opis": "Toaleta (WC); kolor: biały; materiał: ceramika; wym.: 36 × 51 × 34 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Zenit Close Coupled Push Button Flush Toilet.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/miska-wc-wiszaca-city-sq-cersanit-82585099.html"
+ "price": 949.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/miska-wc-wiszaca-city-sq-cersanit-82585099.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

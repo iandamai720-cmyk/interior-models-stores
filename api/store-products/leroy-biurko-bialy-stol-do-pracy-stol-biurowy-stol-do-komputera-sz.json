@@ -16,7 +16,7 @@
   "biały / blat beton"
  ],
  "material": "płyta MDF",
- "price_pln": null,
+ "price_pln": 231.47,
  "url_pl": "https://www.leroymerlin.pl/produkty/biurko-bialy-stol-do-pracy-stol-biurowy-stol-do-komputera-szary-blat-86728293.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/biurko-bialy-stol-do-pracy-stol-biurowy-stol-do-komputera-szary-blat-86728293.html",
@@ -61,6 +61,9 @@
  "opis": "Biurko; kolor: biały / blat beton; materiał: płyta MDF; wym.: 110 × 40 × 91 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MICKE Biurko - biały 105x50 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/biurko-bialy-stol-do-pracy-stol-biurowy-stol-do-komputera-szary-blat-86728293.html"
+ "price": 231.47,
+ "product_url": "https://www.leroymerlin.pl/produkty/biurko-bialy-stol-do-pracy-stol-biurowy-stol-do-komputera-szary-blat-86728293.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

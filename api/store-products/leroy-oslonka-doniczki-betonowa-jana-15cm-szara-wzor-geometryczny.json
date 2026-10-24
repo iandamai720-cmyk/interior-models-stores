@@ -16,7 +16,7 @@
   "szary (wzór geometryczny)"
  ],
  "material": "beton",
- "price_pln": null,
+ "price_pln": 24.88,
  "url_pl": "https://www.leroymerlin.pl/produkty/oslonka-doniczki-betonowa-jana-15cm-szara-wzor-geometryczny-86467843.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/oslonka-doniczki-betonowa-jana-15cm-szara-wzor-geometryczny-86467843.html",
@@ -61,6 +61,9 @@
  "opis": "Doniczka; kolor: szary (wzór geometryczny); materiał: beton; wym.: 15 × 15 × 14 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KLYNNON Osłonka doniczki - wykonano ręcznie bambus 24 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/oslonka-doniczki-betonowa-jana-15cm-szara-wzor-geometryczny-86467843.html"
+ "price": 24.88,
+ "product_url": "https://www.leroymerlin.pl/produkty/oslonka-doniczki-betonowa-jana-15cm-szara-wzor-geometryczny-86467843.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

@@ -16,7 +16,7 @@
   "szary"
  ],
  "material": "rattan PE, stal, szkło hartowane",
- "price_pln": null,
+ "price_pln": 332.01,
  "url_pl": "https://www.leroymerlin.pl/produkty/stol-ogrodowy-jadalniany-szary-70x70x73-cm-rattan-pe-vidaxl-84035008.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/stol-ogrodowy-jadalniany-szary-70x70x73-cm-rattan-pe-vidaxl-84035008.html",
@@ -61,6 +61,9 @@
  "opis": "Stół ogrodowy; kolor: szary; materiał: rattan PE, stal, szkło hartowane; wym.: 70 × 70 × 73 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NÄMMARÖ Stół, ogrodowy - bejca jasnobrązowa 75x63 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/stol-ogrodowy-jadalniany-szary-70x70x73-cm-rattan-pe-vidaxl-84035008.html"
+ "price": 332.01,
+ "product_url": "https://www.leroymerlin.pl/produkty/stol-ogrodowy-jadalniany-szary-70x70x73-cm-rattan-pe-vidaxl-84035008.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

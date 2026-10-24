@@ -16,7 +16,7 @@
   "beżowy (vintage)"
  ],
  "material": "polipropylen (sznurkowy)",
- "price_pln": null,
+ "price_pln": 300.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/dywan-sznurkowy-sizal-boho-39495363-przecierany-vintage-bez-120x170-cm-87118884.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/dywan-sznurkowy-sizal-boho-39495363-przecierany-vintage-bez-120x170-cm-87118884.html",
@@ -61,6 +61,9 @@
  "opis": "Dywan; kolor: beżowy (vintage); materiał: polipropylen (sznurkowy); wym.: 120 × 170 cm (szer. × gł.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TIPHEDE Dywan tkany na płasko - naturalny/czarny 120x180 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/dywan-sznurkowy-sizal-boho-39495363-przecierany-vintage-bez-120x170-cm-87118884.html"
+ "price": 300.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/dywan-sznurkowy-sizal-boho-39495363-przecierany-vintage-bez-120x170-cm-87118884.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

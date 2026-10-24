@@ -16,7 +16,7 @@
   "biały połysk"
  ],
  "material": "płyta wiórowa lakierowana",
- "price_pln": null,
+ "price_pln": 739.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/szafka-pod-umywalke-katalonia-new-90-sensea-83085169.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/szafka-pod-umywalke-katalonia-new-90-sensea-83085169.html",
@@ -61,6 +61,9 @@
  "opis": "Szafka pod umywalkę; kolor: biały połysk; materiał: płyta wiórowa lakierowana; wym.: 90 × 41 × 55 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ENHET Szafka umywalkowa z szufladami - biały 60x42x60 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/szafka-pod-umywalke-katalonia-new-90-sensea-83085169.html"
+ "price": 739.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/szafka-pod-umywalke-katalonia-new-90-sensea-83085169.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

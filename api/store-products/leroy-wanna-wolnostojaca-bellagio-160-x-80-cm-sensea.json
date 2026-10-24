@@ -16,7 +16,7 @@
   "biały"
  ],
  "material": "akryl",
- "price_pln": null,
+ "price_pln": 4499.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/wanna-wolnostojaca-bellagio-160-x-80-cm-sensea-90194301.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/wanna-wolnostojaca-bellagio-160-x-80-cm-sensea-90194301.html",
@@ -61,6 +61,9 @@
  "opis": "Wanna; kolor: biały; materiał: akryl; wym.: 160 × 80 × 58 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Freestanding bathtub (Angelo).",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/wanna-wolnostojaca-bellagio-160-x-80-cm-sensea-90194301.html"
+ "price": 4499.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/wanna-wolnostojaca-bellagio-160-x-80-cm-sensea-90194301.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

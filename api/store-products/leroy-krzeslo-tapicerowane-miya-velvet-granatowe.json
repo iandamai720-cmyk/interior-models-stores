@@ -58,9 +58,13 @@
  "similar_model_name": "Dining Chair 02",
  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/ph_dining_chair_02.glb",
  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/polyhaven-dining-chair-02.jpg",
- "opis": "Krzesło do jadalni; kolor: granatowy; materiał: aksamit, drewno; wym.: 54 × 60 × 100 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Dining Chair 02.",
+ "opis": "Krzesło do jadalni; kolor: granatowy; materiał: aksamit, drewno; wym.: 54 × 60 × 100 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Dining Chair 02; uwaga: produkt wycofany ze sprzedaży („Ten produkt nie jest już dostępny”), cena nieustalona.",
  "country": "PL",
  "currency": "PLN",
  "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/krzeslo-tapicerowane-miya-velvet-granatowe-96452900.html"
+ "product_url": "https://www.leroymerlin.pl/produkty/krzeslo-tapicerowane-miya-velvet-granatowe-96452900.html",
+ "discontinued": true,
+ "availability": "not_found",
+ "availability_note": "karta produktu: „Ten produkt nie jest już dostępny” (sprawdzone w przeglądarce, browser_inbox/leroymerlin_prices.jsonl); cena nieustalona",
+ "price_source": null
 }

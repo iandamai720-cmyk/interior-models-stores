@@ -16,7 +16,7 @@
   "dąb artisan"
  ],
  "material": "płyta laminowana",
- "price_pln": null,
+ "price_pln": 466.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/komoda-akord-k120-dab-artisan-120-cm-6-szuflad-kolor-dab-artisan-mat-120x40x77-cm-87836312.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/komoda-akord-k120-dab-artisan-120-cm-6-szuflad-kolor-dab-artisan-mat-120x40x77-cm-87836312.html",
@@ -61,6 +61,9 @@
  "opis": "Komoda; kolor: dąb artisan; materiał: płyta laminowana; wym.: 120 × 40 × 77 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STOREMOLLA Komoda, 8 szuflad - szarobrązowy bejcowane 171x50x91 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/komoda-akord-k120-dab-artisan-120-cm-6-szuflad-kolor-dab-artisan-mat-120x40x77-cm-87836312.html"
+ "price": 466.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/komoda-akord-k120-dab-artisan-120-cm-6-szuflad-kolor-dab-artisan-mat-120x40x77-cm-87836312.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

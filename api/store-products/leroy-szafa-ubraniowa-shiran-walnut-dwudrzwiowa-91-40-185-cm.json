@@ -16,7 +16,7 @@
   "orzech (ciemnobrązowy)"
  ],
  "material": "płyta wiórowa",
- "price_pln": null,
+ "price_pln": 859.0,
  "url_pl": "https://www.leroymerlin.pl/produkty/szafa-ubraniowa-shiran-walnut-dwudrzwiowa-91-40-185-cm-94061185.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/szafa-ubraniowa-shiran-walnut-dwudrzwiowa-91-40-185-cm-94061185.html",
@@ -61,6 +61,9 @@
  "opis": "Szafa; kolor: orzech (ciemnobrązowy); materiał: płyta wiórowa; wym.: 91 × 40 × 185 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VILHATTEN Szafa 2 drzwi i 2 szuflady - imit. dębu 98x57x190 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/szafa-ubraniowa-shiran-walnut-dwudrzwiowa-91-40-185-cm-94061185.html"
+ "price": 859.0,
+ "product_url": "https://www.leroymerlin.pl/produkty/szafa-ubraniowa-shiran-walnut-dwudrzwiowa-91-40-185-cm-94061185.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

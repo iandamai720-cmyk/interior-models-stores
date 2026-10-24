@@ -16,7 +16,7 @@
   "czarny / różowe złoto"
  ],
  "material": "stal malowana proszkowo, poliwęglan",
- "price_pln": null,
+ "price_pln": 436.15,
  "url_pl": "https://www.leroymerlin.pl/produkty/witryna-podlogowa-regal-na-ksiazki-szafka-do-salonu-szafka-wysoka-95060336.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/witryna-podlogowa-regal-na-ksiazki-szafka-do-salonu-szafka-wysoka-95060336.html",
@@ -61,6 +61,9 @@
  "opis": "Witryna; kolor: czarny / różowe złoto; materiał: stal malowana proszkowo, poliwęglan; wym.: 85 × 40 × 120 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): RUDSTA Witryna - antracyt 80x37x120 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/witryna-podlogowa-regal-na-ksiazki-szafka-do-salonu-szafka-wysoka-95060336.html"
+ "price": 436.15,
+ "product_url": "https://www.leroymerlin.pl/produkty/witryna-podlogowa-regal-na-ksiazki-szafka-do-salonu-szafka-wysoka-95060336.html",
+ "price_regular": 839.0,
+ "price_regular_pln": 839.0,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

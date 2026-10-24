@@ -16,7 +16,7 @@
   "wenge / dąb sonoma"
  ],
  "material": "płyta laminowana",
- "price_pln": null,
+ "price_pln": 351.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/szafka-rtv-akord-wenge-120-cm-2-drzwi-kolor-dab-sonoma-mat-2-polki-120x40x55-cm-87836201.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/szafka-rtv-akord-wenge-120-cm-2-drzwi-kolor-dab-sonoma-mat-2-polki-120x40x55-cm-87836201.html",
@@ -61,6 +61,9 @@
  "opis": "Szafka RTV; kolor: wenge / dąb sonoma; materiał: płyta laminowana; wym.: 120 × 40 × 55 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BESTÅ TV bench - black-brown Lappviken/brown walnut effect 180x42x39 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/szafka-rtv-akord-wenge-120-cm-2-drzwi-kolor-dab-sonoma-mat-2-polki-120x40x55-cm-87836201.html"
+ "price": 351.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/szafka-rtv-akord-wenge-120-cm-2-drzwi-kolor-dab-sonoma-mat-2-polki-120x40x55-cm-87836201.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

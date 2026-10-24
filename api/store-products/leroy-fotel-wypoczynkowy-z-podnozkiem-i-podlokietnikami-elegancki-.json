@@ -16,7 +16,7 @@
   "szary"
  ],
  "material": "tkanina poliestrowa, pianka",
- "price_pln": null,
+ "price_pln": 848.53,
  "url_pl": "https://www.leroymerlin.pl/produkty/fotel-wypoczynkowy-z-podnozkiem-i-podlokietnikami-elegancki-design-z-bocznymi-schowkami-najwyzszy-komfort-i-wysokiej-jakosci-materialy-96572994.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/fotel-wypoczynkowy-z-podnozkiem-i-podlokietnikami-elegancki-design-z-bocznymi-schowkami-najwyzszy-komfort-i-wysokiej-jakosci-materialy-96572994.html",
@@ -61,6 +61,9 @@
  "opis": "Fotel; kolor: szary; materiał: tkanina poliestrowa, pianka; wym.: 67 × 60 × 96 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Modern Chair.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/fotel-wypoczynkowy-z-podnozkiem-i-podlokietnikami-elegancki-design-z-bocznymi-schowkami-najwyzszy-komfort-i-wysokiej-jakosci-materialy-96572994.html"
+ "price": 848.53,
+ "product_url": "https://www.leroymerlin.pl/produkty/fotel-wypoczynkowy-z-podnozkiem-i-podlokietnikami-elegancki-design-z-bocznymi-schowkami-najwyzszy-komfort-i-wysokiej-jakosci-materialy-96572994.html",
+ "price_regular": 883.89,
+ "price_regular_pln": 883.89,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

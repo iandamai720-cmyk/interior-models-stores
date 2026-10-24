@@ -16,7 +16,7 @@
   "sosna bielona"
  ],
  "material": "drewno sosnowe",
- "price_pln": null,
+ "price_pln": 59.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/regal-magazynowy-drewniany-do-garazu-piwnicy-3-polki-sosna-biala-62cm-96545109.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/regal-magazynowy-drewniany-do-garazu-piwnicy-3-polki-sosna-biala-62cm-96545109.html",
@@ -61,6 +61,9 @@
  "opis": "Regał na książki; kolor: sosna bielona; materiał: drewno sosnowe; wym.: 63 × 33 × 59 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ALBERT Regał - miękkie dr 64x28x159 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/regal-magazynowy-drewniany-do-garazu-piwnicy-3-polki-sosna-biala-62cm-96545109.html"
+ "price": 59.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/regal-magazynowy-drewniany-do-garazu-piwnicy-3-polki-sosna-biala-62cm-96545109.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

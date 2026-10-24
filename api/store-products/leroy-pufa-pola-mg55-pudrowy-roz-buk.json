@@ -58,9 +58,13 @@
  "similar_model_name": "ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski",
  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/aterloga_puf_00570241.glb",
  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/ikea-00570241.jpg",
- "opis": "Puf; kolor: pudrowy róż / buk; materiał: aksamit, drewno bukowe; wym.: 40 × 40 × 36 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski.",
+ "opis": "Puf; kolor: pudrowy róż / buk; materiał: aksamit, drewno bukowe; wym.: 40 × 40 × 36 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski; uwaga: produkt wycofany ze sprzedaży („Ten produkt nie jest już dostępny”), cena nieustalona.",
  "country": "PL",
  "currency": "PLN",
  "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/pufa-pola-mg55-pudrowy-roz-buk-96472640.html"
+ "product_url": "https://www.leroymerlin.pl/produkty/pufa-pola-mg55-pudrowy-roz-buk-96472640.html",
+ "discontinued": true,
+ "availability": "not_found",
+ "availability_note": "karta produktu: „Ten produkt nie jest już dostępny” (sprawdzone w przeglądarce, browser_inbox/leroymerlin_prices.jsonl); cena nieustalona",
+ "price_source": null
 }

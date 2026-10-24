@@ -16,7 +16,7 @@
   "szary mat"
  ],
  "material": "ceramika",
- "price_pln": null,
+ "price_pln": 31.49,
  "url_pl": "https://www.leroymerlin.pl/produkty/doniczka-ceramiczna-barylka-sr-16-cm-szara-eko-91188682.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/doniczka-ceramiczna-barylka-sr-16-cm-szara-eko-91188682.html",
@@ -61,6 +61,9 @@
  "opis": "Doniczka; kolor: szary mat; materiał: ceramika; wym.: 16 × 16 × 13 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SOJABÖNA Osłonka doniczki - biały 9 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/doniczka-ceramiczna-barylka-sr-16-cm-szara-eko-91188682.html"
+ "price": 31.49,
+ "product_url": "https://www.leroymerlin.pl/produkty/doniczka-ceramiczna-barylka-sr-16-cm-szara-eko-91188682.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

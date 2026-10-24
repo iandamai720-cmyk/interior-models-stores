@@ -16,7 +16,7 @@
   "czarny"
  ],
  "material": "metal, poliwęglan",
- "price_pln": null,
+ "price_pln": 421.99,
  "url_pl": "https://www.leroymerlin.pl/produkty/lovhaus-zestaw-2-lamp-do-salonu-ze-zdalnym-sterowaniem-lampa-podlogowa-led-sciemnialna-1-godzinny-timer-i-funkcja-pamieci-12-w-do-sypialni-biura-95636469.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/lovhaus-zestaw-2-lamp-do-salonu-ze-zdalnym-sterowaniem-lampa-podlogowa-led-sciemnialna-1-godzinny-timer-i-funkcja-pamieci-12-w-do-sypialni-biura-95636469.html",
@@ -61,6 +61,9 @@
  "opis": "Lampa podłogowa; kolor: czarny; materiał: metal, poliwęglan; wym.: 170 cm (wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TÅGARP Lampa podłogowa/do czytania - czarny/biały.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/lovhaus-zestaw-2-lamp-do-salonu-ze-zdalnym-sterowaniem-lampa-podlogowa-led-sciemnialna-1-godzinny-timer-i-funkcja-pamieci-12-w-do-sypialni-biura-95636469.html"
+ "price": 421.99,
+ "product_url": "https://www.leroymerlin.pl/produkty/lovhaus-zestaw-2-lamp-do-salonu-ze-zdalnym-sterowaniem-lampa-podlogowa-led-sciemnialna-1-godzinny-timer-i-funkcja-pamieci-12-w-do-sypialni-biura-95636469.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

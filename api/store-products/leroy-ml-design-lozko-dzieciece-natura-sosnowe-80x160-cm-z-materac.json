@@ -16,7 +16,7 @@
   "naturalny (sosna)"
  ],
  "material": "lite drewno sosnowe, sklejka",
- "price_pln": null,
+ "price_pln": 698.45,
  "url_pl": "https://www.leroymerlin.pl/produkty/ml-design-lozko-dzieciece-natura-sosnowe-80x160-cm-z-materac-h-10-cm-bramka-pilkarska-rama-z-listew-siatka-dla-chlopcow-i-dziewczynek-lozko-do-zabawy-96548900.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/ml-design-lozko-dzieciece-natura-sosnowe-80x160-cm-z-materac-h-10-cm-bramka-pilkarska-rama-z-listew-siatka-dla-chlopcow-i-dziewczynek-lozko-do-zabawy-96548900.html",
@@ -61,6 +61,9 @@
  "opis": "Łóżko dziecięce; kolor: naturalny (sosna); materiał: lite drewno sosnowe, sklejka; wym.: 166 × 86 × 153 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KURA Dwustronne łóżko - biały/sosna 90x200 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/ml-design-lozko-dzieciece-natura-sosnowe-80x160-cm-z-materac-h-10-cm-bramka-pilkarska-rama-z-listew-siatka-dla-chlopcow-i-dziewczynek-lozko-do-zabawy-96548900.html"
+ "price": 698.45,
+ "product_url": "https://www.leroymerlin.pl/produkty/ml-design-lozko-dzieciece-natura-sosnowe-80x160-cm-z-materac-h-10-cm-bramka-pilkarska-rama-z-listew-siatka-dla-chlopcow-i-dziewczynek-lozko-do-zabawy-96548900.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

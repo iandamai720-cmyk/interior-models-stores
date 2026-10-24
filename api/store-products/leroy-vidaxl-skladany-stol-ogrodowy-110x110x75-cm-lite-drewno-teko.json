@@ -16,7 +16,7 @@
   "drewno tekowe (naturalny)"
  ],
  "material": "lite drewno tekowe",
- "price_pln": null,
+ "price_pln": 1416.55,
  "url_pl": "https://www.leroymerlin.pl/produkty/vidaxl-skladany-stol-ogrodowy-110x110x75-cm-lite-drewno-tekowe-85344950.html",
  "url_uk": null,
  "source_url": "https://www.leroymerlin.pl/produkty/vidaxl-skladany-stol-ogrodowy-110x110x75-cm-lite-drewno-tekowe-85344950.html",
@@ -61,6 +61,9 @@
  "opis": "Stół ogrodowy; kolor: drewno tekowe (naturalny); materiał: lite drewno tekowe; wym.: 110 × 110 × 75 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ASKHOLMEN Stół, ogrodowy - składany ciemnobrązowy 60x62 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.leroymerlin.pl/produkty/vidaxl-skladany-stol-ogrodowy-110x110x75-cm-lite-drewno-tekowe-85344950.html"
+ "price": 1416.55,
+ "product_url": "https://www.leroymerlin.pl/produkty/vidaxl-skladany-stol-ogrodowy-110x110x75-cm-lite-drewno-tekowe-85344950.html",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/leroymerlin_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }
