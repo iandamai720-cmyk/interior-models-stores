@@ -16,7 +16,7 @@
   "grafitowy"
  ],
  "material": null,
- "price_pln": null,
+ "price_pln": 3119.0,
  "url_pl": "https://www.agatameble.pl/meble/wypoczynkowe/narozniki/nessi-naroznik-z-funkcja-recf-2dl-tkanina-enjoy24",
  "url_uk": null,
  "source_url": "https://www.agatameble.pl/meble/wypoczynkowe/narozniki/nessi-naroznik-z-funkcja-recf-2dl-tkanina-enjoy24",
@@ -56,6 +56,9 @@
  "opis": "Sofa narożna; kolor: grafitowy; sklep: Agata Meble; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VIMLE Sofa narożna 5-osobowa.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.agatameble.pl/meble/wypoczynkowe/narozniki/nessi-naroznik-z-funkcja-recf-2dl-tkanina-enjoy24"
+ "price": 3119.0,
+ "product_url": "https://www.agatameble.pl/meble/wypoczynkowe/narozniki/nessi-naroznik-z-funkcja-recf-2dl-tkanina-enjoy24",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/pl_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

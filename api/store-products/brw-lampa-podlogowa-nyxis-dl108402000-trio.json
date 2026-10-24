@@ -14,7 +14,7 @@
  "colour": null,
  "colours": [],
  "material": null,
- "price_pln": null,
+ "price_pln": 466.2,
  "url_pl": "https://www.brw.pl/lampa-podlogowa-nyxis-dl108402000-trio,1509153",
  "url_uk": null,
  "source_url": "https://www.brw.pl/lampa-podlogowa-nyxis-dl108402000-trio,1509153",
@@ -54,6 +54,9 @@
  "opis": "Lampa podłogowa; sklep: Black Red White; zdjęcie: produkt ze sklepu; podobny model (zastępczy): FLYGHÖJD Lampa podłogowa - mosiądz/zielono-szary.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.brw.pl/lampa-podlogowa-nyxis-dl108402000-trio,1509153"
+ "price": 466.2,
+ "product_url": "https://www.brw.pl/lampa-podlogowa-nyxis-dl108402000-trio,1509153",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/pl_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

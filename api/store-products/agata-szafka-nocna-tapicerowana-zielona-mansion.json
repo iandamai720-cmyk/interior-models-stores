@@ -16,7 +16,7 @@
   "zielony"
  ],
  "material": null,
- "price_pln": null,
+ "price_pln": 449.0,
  "url_pl": "https://www.agatameble.pl/meble/lozka-i-szafki-nocne/szafki-nocne/mansion-szafka-nocna-2sz-tkanina-monolith37",
  "url_uk": null,
  "source_url": "https://www.agatameble.pl/meble/lozka-i-szafki-nocne/szafki-nocne/mansion-szafka-nocna-2sz-tkanina-monolith37",
@@ -56,6 +56,9 @@
  "opis": "Szafka nocna; kolor: zielony; sklep: Agata Meble; zdjęcie: produkt ze sklepu; podobny model (zastępczy): HEMNES Bedside table - grey-green/light brown stained 46x35 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.agatameble.pl/meble/lozka-i-szafki-nocne/szafki-nocne/mansion-szafka-nocna-2sz-tkanina-monolith37"
+ "price": 449.0,
+ "product_url": "https://www.agatameble.pl/meble/lozka-i-szafki-nocne/szafki-nocne/mansion-szafka-nocna-2sz-tkanina-monolith37",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/pl_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

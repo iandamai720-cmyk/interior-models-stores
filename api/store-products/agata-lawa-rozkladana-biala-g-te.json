@@ -16,7 +16,7 @@
   "biały"
  ],
  "material": null,
- "price_pln": null,
+ "price_pln": 729.0,
  "url_pl": "https://www.agatameble.pl/meble/stoly-stoliki-i-krzesla/stoliki-i-lawy/lawa-rozkladana-la01-bialy",
  "url_uk": null,
  "source_url": "https://www.agatameble.pl/meble/stoly-stoliki-i-krzesla/stoliki-i-lawy/lawa-rozkladana-la01-bialy",
@@ -56,6 +56,9 @@
  "opis": "Stolik kawowy; kolor: biały; sklep: Agata Meble; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LACK Stolik kawowy - biały 90x55 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.agatameble.pl/meble/stoly-stoliki-i-krzesla/stoliki-i-lawy/lawa-rozkladana-la01-bialy"
+ "price": 729.0,
+ "product_url": "https://www.agatameble.pl/meble/stoly-stoliki-i-krzesla/stoliki-i-lawy/lawa-rozkladana-la01-bialy",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/pl_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

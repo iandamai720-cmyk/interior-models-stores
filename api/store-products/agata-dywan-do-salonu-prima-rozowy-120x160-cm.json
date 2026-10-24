@@ -16,7 +16,7 @@
   "różowy"
  ],
  "material": null,
- "price_pln": null,
+ "price_pln": 119.0,
  "url_pl": "https://www.agatameble.pl/akcesoria-i-dekoracje/dywany/shaggy/dywan-do-salonu-rozowy-120x160-cm-prima",
  "url_uk": null,
  "source_url": "https://www.agatameble.pl/akcesoria-i-dekoracje/dywany/shaggy/dywan-do-salonu-rozowy-120x160-cm-prima",
@@ -61,6 +61,9 @@
  "opis": "Dywan; kolor: różowy; wym.: 120 × 160 cm (szer. × gł.); sklep: Agata Meble; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney rug square.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.agatameble.pl/akcesoria-i-dekoracje/dywany/shaggy/dywan-do-salonu-rozowy-120x160-cm-prima"
+ "price": 119.0,
+ "product_url": "https://www.agatameble.pl/akcesoria-i-dekoracje/dywany/shaggy/dywan-do-salonu-rozowy-120x160-cm-prima",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/pl_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }

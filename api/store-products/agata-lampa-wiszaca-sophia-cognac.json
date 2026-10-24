@@ -53,9 +53,13 @@
  "similar_model_name": null,
  "similar_model_url": null,
  "similar_preview_url": null,
- "opis": "Lampa wisząca; kolor: brązowy; sklep: Agata Meble; brak zdjęcia produktu; brak dobrego modelu zastępczego.",
+ "opis": "Lampa wisząca; kolor: brązowy; sklep: Agata Meble; brak zdjęcia produktu; brak dobrego modelu zastępczego; uwaga: link prowadzi do listingu kategorii (niepoprawny URL produktu), cena nieustalona.",
  "country": "PL",
  "currency": "PLN",
  "price": null,
- "product_url": "https://www.agatameble.pl/akcje-promocyjne/gazetki-2026/pazdziernik/lampa-wiszaca-sophia-cognac"
+ "product_url": "https://www.agatameble.pl/akcje-promocyjne/gazetki-2026/pazdziernik/lampa-wiszaca-sophia-cognac",
+ "url_broken": true,
+ "url_status": "niepoprawny URL produktu – link prowadzi do listingu kategorii, nie do karty produktu (sprawdzone w przeglądarce); cena nieustalona",
+ "url_checked_note": "URL shows category listing 'Lampa wisząca SOPHIA COGNAC' (6 products), not a single product page",
+ "price_source": null
 }

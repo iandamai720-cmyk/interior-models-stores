@@ -16,7 +16,7 @@
   "brzoza, naturalny"
  ],
  "material": "lite drewno, drewno",
- "price_pln": null,
+ "price_pln": 3169.0,
  "url_pl": "https://www.agatameble.pl/meble/rtv/szafki-rtv/szafka-rtv-z-litego-drewna-175-cm-brzoza-naturalna-paola",
  "url_uk": null,
  "source_url": "https://www.agatameble.pl/meble/rtv/szafki-rtv/szafka-rtv-z-litego-drewna-175-cm-brzoza-naturalna-paola",
@@ -61,6 +61,9 @@
  "opis": "Szafka RTV; kolor: brzoza, naturalny; materiał: lite drewno, drewno; wym.: 175 cm (szer.); sklep: Agata Meble; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BESTÅ Szafka pod TV - imitacja dębu bejcowanego na biało 120x40x48 cm.",
  "country": "PL",
  "currency": "PLN",
- "price": null,
- "product_url": "https://www.agatameble.pl/meble/rtv/szafki-rtv/szafka-rtv-z-litego-drewna-175-cm-brzoza-naturalna-paola"
+ "price": 3169.0,
+ "product_url": "https://www.agatameble.pl/meble/rtv/szafki-rtv/szafka-rtv-z-litego-drewna-175-cm-brzoza-naturalna-paola",
+ "price_regular": null,
+ "price_regular_pln": null,
+ "price_source": "przeglądarka – browser_inbox/pl_prices.jsonl (cena przepisana ręcznie z karty produktu)"
 }
