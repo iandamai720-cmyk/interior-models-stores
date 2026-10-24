@@ -41,6 +41,8 @@
  "popularity_rank": 6,
  "popularity_method": "domyślna kolejność listingu (sklep nie ma sortowania „bestseller”)",
  "route": null,
+ "substitute": true,
+ "substitute_reason": "ZASTĘPSTWO: plastikowa szafka/kontener z szufladami (GOME/API) w miejsce komody – w kategorii Global House jest mało prawdziwych komód",
  "has_own_model": false,
  "file": null,
  "file_size_bytes": 0,
