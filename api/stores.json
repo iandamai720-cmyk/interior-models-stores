@@ -269,12 +269,12 @@
  },
  {
   "store": "Pottery Barn",
-  "products": 56,
+  "products": 76,
   "own_models": 0,
   "country": [
    "US"
   ],
-  "with_price": 56,
+  "with_price": 76,
   "url": "https://iandamai720-cmyk.github.io/interior-models-stores/api/store/pottery-barn.json"
  },
  {
@@ -339,12 +339,12 @@
  },
  {
   "store": "West Elm",
-  "products": 37,
+  "products": 50,
   "own_models": 0,
   "country": [
    "US"
   ],
-  "with_price": 37,
+  "with_price": 50,
   "url": "https://iandamai720-cmyk.github.io/interior-models-stores/api/store/west-elm.json"
  },
  {
